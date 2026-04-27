@@ -1,25 +1,24 @@
 🎮 Quest & Progression System (Java)
 
 📌 Overview
-This project is a simple object-oriented Java application simulating a game-like progression system. 
-It models a player who completes quests, gains experience points, and levels up over time.
-The goal of the project was to practice object-oriented programming principles, system design, and clean code structure.
+This project is an object-oriented Java application hat simulates a simple game progression system. It models a player who completes quests, gains experience points, and levels up over time.
+The purpose of the project is to practice object-oriented programming principles, system structuring, and clean code principles.
 
 🧠 Features
-Player leveling system based on XP
-Quest system with completion logic
-Experience reward mechanics
-Modular OOP architecture
-Console-based simulation of gameplay loop
+Player progression system based on XP and leveling,
+Quest system with completion and reward logic,
+Experience gain and level-up mechanics,
+Modular OOP architecture,
+Console-based simulation of gameplay loop.
 
-🏗️ Architecture
-The project is built using core OOP principles:
-Player → manages XP and leveling
-Quest → represents tasks with rewards
-QuestManager → handles quest storage and logic
-Main → simulation entry point
+Architecture
+The project follows core OOP principles and is structured into separate components:
+Player → manages experience points and leveling logic,
+Quest → represents tasks with XP rewards,
+QuestManager → handles quest storage and logic,
+Main → entry point and simulation runner.
 
-⚙️ Technologies Used
+Technologies Used
 Java,
 Object-Oriented Programming (OOP),
-Git (version control)
+Git (version control).
