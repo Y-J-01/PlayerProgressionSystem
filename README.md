@@ -20,6 +20,6 @@ QuestManager → handles quest storage and logic
 Main → simulation entry point
 
 ⚙️ Technologies Used
-Java
-Object-Oriented Programming (OOP)
+Java,
+Object-Oriented Programming (OOP),
 Git (version control)
