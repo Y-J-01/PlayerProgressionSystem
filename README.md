@@ -22,3 +22,8 @@ Main → entry point and simulation runner.
 Java,
 Object-Oriented Programming (OOP),
 Git (version control).
+
+Planned Improvements in the future:
+persistence system (save/load player data),
+GUI version (JavaFX),
+database integration.
