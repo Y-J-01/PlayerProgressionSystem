@@ -11,14 +11,14 @@ Experience gain and level-up mechanics,
 Modular OOP architecture,
 Console-based simulation of gameplay loop.
 
-Architecture
+🏗️ Architecture
 The project follows core OOP principles and is structured into separate components:
 Player → manages experience points and leveling logic,
 Quest → represents tasks with XP rewards,
 QuestManager → handles quest storage and logic,
 Main → entry point and simulation runner.
 
-Technologies Used
+⚙️ Technologies Used
 Java,
 Object-Oriented Programming (OOP),
 Git (version control).
